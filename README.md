@@ -1,5 +1,6 @@
 # Kiques - Sneaker Store Web App
 Commit
+commit
 
 commit
 Kiques is a full-stack web application that allows users to browse and manage sneakers. Built with Flask, React, and SQLAlchemy, this app fetches sneaker data from an API, displays it in a sleek, responsive UI powered by Bootstrap, and provides basic functionality for users to interact with the store.
